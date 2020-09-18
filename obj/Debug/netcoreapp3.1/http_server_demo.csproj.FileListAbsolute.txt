@@ -1,0 +1,12 @@
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.csprojAssemblyReference.cache
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.AssemblyInfoInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.AssemblyInfo.cs
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.csproj.CoreCompileInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/bin/Debug/netcoreapp3.1/http_server_demo.deps.json
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/bin/Debug/netcoreapp3.1/http_server_demo.runtimeconfig.json
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/bin/Debug/netcoreapp3.1/http_server_demo.runtimeconfig.dev.json
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/bin/Debug/netcoreapp3.1/http_server_demo.dll
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/bin/Debug/netcoreapp3.1/http_server_demo.pdb
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.dll
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.pdb
+/Users/dimitarmitkov/Projects/C#2020/web/lectures/http/http_server_demo/http_server_demo/obj/Debug/netcoreapp3.1/http_server_demo.genruntimeconfig.cache
